@@ -9,6 +9,7 @@ int main() {
     int resp;
 
     cin >> resp;
+
     while (resp != 4){
 
         switch (resp){
